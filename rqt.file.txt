@@ -1,0 +1,33 @@
+python --version   or    python -V
+
+
+py --list   or    py -0
+
+
+py -3.10 -m venv venv
+
+
+venv\Scripts\activate   or   venv\Scripts\deactivate
+
+
+
+python -m pip install --upgrade pip
+
+
+------ to remove-----
+
+rmdir /s /q venv
+py -3.10 -m venv venv
+venv\Scripts\activate
+python --version
+
+---------------------
+
+
+pip install ultralytics
+
+pip install opencv-python ultralytics
+
+
+
+
